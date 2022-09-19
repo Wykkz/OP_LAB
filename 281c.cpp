@@ -4,8 +4,8 @@ using namespace std;
 int main()
 {
     int a;
-    cout <<"Vvedite a: ";
-    cin>> a;
+    cout << "Vvedite a: ";
+    cin >> a;
     int a1= a * a;
     int a2= a1 * a1;
     int a3= a2 * a2;

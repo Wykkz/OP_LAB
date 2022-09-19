@@ -32,6 +32,7 @@
     "281c": "cpp",
     "random": "cpp",
     "numbers": "cpp",
-    "ostream": "cpp"
+    "ostream": "cpp",
+    "iostream": "cpp"
   }
 }
